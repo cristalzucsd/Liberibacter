@@ -3,14 +3,23 @@
 Linking metabolic phenotypes to pathogenic traits among ‘Candidatus Liberibacter asiaticus’ and its hosts Cristal Zuniga1, Beth Peacock2*, Bo Liang1,3*, Greg McCollum4, Sonia C. Irigoyen5, Diego Tec1,6, Clarisse Marotz1, Nien-Chen Weng1, Alejandro Zepeda6, Georgios Vidalakis2, Kranthi K. Mandadi5,7, James Borneman2, Karsten Zengler1,8,9,# 
 
 
-#1Department of Pediatrics, University of California, San Diego, 9500 Gilman Drive, La Jolla, CA 92093-0760, USA
+1Department of Pediatrics, University of California, San Diego, 9500 Gilman Drive, La Jolla, CA 92093-0760, USA
+
 2Department of Microbiology and Plant Pathology, University of California, Riverside 92521, USA
-3State Key Laboratory of Bioreactor Engineering and Institute of Applied Chemistry, East China University of Science and Technology, Shanghai, P.R. China
+
+3State Key Laboratory of Bioreactor Engineering and Institute of Applied Chemistry, East China University of Science and Technology, 
+Shanghai, P.R. China
+
 4USDA, ARS, US Horticultural Research Laboratory, 2001 S. Rock Road, Ft. Pierce, FL 34945
+
 5Texas A&M AgriLife Research and Extension Center, Texas A&M University System, Weslaco, Texas, USA
+
 6Facultad de Ingeniería Química, Universidad Autónoma de Yucatán, Campus de Ciencias Exactas e Ingenierías, Mérida 97203, Yucatán, México
+
 7Department of Plant Pathology and Microbiology, Texas A&M University, College Station, TX, USA
+
 8Department of Bioengineering, University of California, San Diego, La Jolla CA 92093-0412, USA
+
 9Center for Microbiome Innovation, University of California, San Diego, 9500 Gilman Drive, La Jolla, CA 92093-0403, USA
 
 
